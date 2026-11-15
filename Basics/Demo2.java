@@ -1,5 +1,7 @@
 public class Demo2 {                //Type Conversions
     public static void main(String[] args) {
+        // Explicity casting
+        
         // int i = 199;
         
         // byte b = (byte) i;
@@ -17,6 +19,8 @@ public class Demo2 {                //Type Conversions
         b = (byte) i;
 
         System.out.println(b);
+
+
 
 
     }
